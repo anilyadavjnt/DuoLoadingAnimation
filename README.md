@@ -23,7 +23,7 @@ DuoLoadingAnimation is an iOS project focused on creating a smooth, visually app
 - Xcode
 - iOS SDK
 
-## 📱 Demo
+## 📱 Photo
 
 <!-- Add your app screenshot or GIF here -->
 <!-- Example: ![DuoLoadingAnimation Demo](Screenshots/demo.gif) -->
