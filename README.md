@@ -47,13 +47,18 @@ DuoLoadingAnimation is an iOS project focused on creating a smooth, visually app
 - Understand reusable iOS components
 - Create engaging loading experiences
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 
-**Anil Kumar Yadav**
+**Anil Kumar Yadav**  
+iOS Developer
 
-- GitHub: [@anilyadavjnt](https://github.com/anilyadavjnt)
-- LinkedIn: [Anil Yadav](https://linkedin.com/in/anilyadavjnt)
+- Gmail: anilyadavjnt@gmail.com
+- GitHub: https://github.com/anilyadavjnt
+- LinkedIn: https://linkedin.com/in/anilyadavjnt
+- Portfolio: https://portfolio-anilyadavjnt.vercel.app
 
 ---
 
-If you find this project useful, consider giving it a ⭐ on GitHub.
+If you find this project useful, feel free to explore the code and share feedback.
+
+
