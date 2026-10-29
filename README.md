@@ -1,4 +1,4 @@
-<img width="300" height="550" alt="Simulator Screenshot - iPhone 14 Pro - 2026-10-29 at 22 36 35" src="https://github.com/user-attachments/assets/c96817b4-f32e-484d-9f1b-505bea47a01a" />
+
 
 # DuoLoadingAnimation 🎨
 
@@ -25,8 +25,7 @@ DuoLoadingAnimation is an iOS project focused on creating a smooth, visually app
 
 ## 📱 Photo
 
-<!-- Add your app screenshot or GIF here -->
-<!-- Example: ![DuoLoadingAnimation Demo](Screenshots/demo.gif) -->
+<img width="300" height="550" alt="Simulator Screenshot - iPhone 14 Pro - 2026-10-29 at 22 36 35" src="https://github.com/user-attachments/assets/c96817b4-f32e-484d-9f1b-505bea47a01a" />
 
 ## ⚙️ Requirements
 
