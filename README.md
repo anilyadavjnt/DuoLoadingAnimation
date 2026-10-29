@@ -1,4 +1,3 @@
-
 # DuoLoadingAnimation 🎨
 
 A custom loading animation for iOS built with Swift and UIKit.
